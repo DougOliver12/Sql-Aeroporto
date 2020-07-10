@@ -5,9 +5,9 @@ BANCOS DE DADOS
 CONTEÚDO
 
 Criação de Bancos de dados  
-Criação, Alteração e remoção de tabelas  
-Criação e Remoção de índices  
-Inclusão,Alteração e remoção de dados  
+Criação, alteração e remoção de tabelas  
+Criação e remoção de índices  
+Inclusão, alteração e remoção de dados  
 Consultas simples, junções, subconsultas, agregação  
 Procedimentos armazenados  
 
